@@ -67,7 +67,7 @@ filterTasks()  →  Shows All / Active / Completed
 <div align="center">
 
 **Samir Sheikh** · Front-End Developer · 📍 Rawatbhata, Rajasthan
-[Portfolio](https://samir-frontend.github.io/Personal-Portfolio/) · [GitHub](https://github.com/Samir-frontend) · 📧 samirshiekh0808@gmail.com
+[Portfolio](https://samir-portfolio-mu.vercel.app/) · [GitHub](https://github.com/Samir-frontend) · 📧 samirshiekh0808@gmail.com
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,4,15&height=60&section=footer"/>
 
